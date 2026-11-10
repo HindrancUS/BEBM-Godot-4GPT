@@ -1,0 +1,12 @@
+{
+	"approach_openly_fast": "Suddenly there was a noise, which warned her of someone's approach.",
+	"approach_openly_slow": "Suddenly there was a noise and she turned to see the {hunter} standing nearby.",
+	"approach_sneak_fail": "Soon, a strange noise caught her attention - someone was sneaking up on her!",
+	"approach_sneak_mag_fail": "Suddenly, she was wary - the watch-spell told her someone was trying to approach unnoticed.",
+	"approach_sneak_mag_win": "She was careless - the watch-spell strands around her should have warned of intruders. This guest was good enough to deceive them.",
+	"approach_sneak_win": "Unseen, {hunter} watched her.",
+	"attack_hit": "Прямое попадание! {target} отлетает назад.",
+	"attack_miss_1hp": "Охотник промахнулся! Но {target} еле стоит на ногах (HP: {hp}). Она пошатывается, тяжело дышит и ищет брешь в защите.",
+	"begin_story": "{hunter} knew the {target} he had come for was here, in the forest.\nTime for next step.",
+	"stealth_appear": "{hunter} had crept stealthily to his target, but he didn't come here to play hide-and-seek. He cleared his throat to indicate his presence and stepped out into the open."
+}

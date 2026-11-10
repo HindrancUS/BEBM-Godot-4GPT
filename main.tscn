@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://dhifmn07l2uij"]
+
+[ext_resource type="Script" uid="uid://d232qxqmon688" path="res://main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Control" unique_id=1630129404]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ig7tw")
+
+[node name="VBox" type="VBoxContainer" parent="." unique_id=156234879]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Scroll" type="ScrollContainer" parent="VBox" unique_id=1191191702]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Output" type="RichTextLabel" parent="VBox/Scroll" unique_id=1078354710]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Choices" type="VBoxContainer" parent="VBox" unique_id=1632396560]
+layout_mode = 2
